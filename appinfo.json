@@ -1,0 +1,11 @@
+{
+  "id": "com.iptvx-app",
+  "version": "0.0.1",
+  "vendor": "Adrián Ortega Rodríguez",
+  "type": "web",
+  "main": "index.html",
+  "title": "IPTVX",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "disableBackHistoryAPI": true
+}
